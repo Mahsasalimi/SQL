@@ -1,0 +1,26 @@
+# Creating a Table
+
+This SQL script demonstrates the creation of a table in a relational database. Tables are fundamental components of a database, defining the structure for organizing and storing data.
+
+## Usage
+
+1. Open your preferred SQL database management tool.
+2. Copy the contents of [create-table.sql](sql-basics/create-table.sql).
+3. Paste the SQL script into your SQL query editor.
+4. Execute the script to create the specified table.
+
+## Table Structure
+
+The script defines the structure of the table, including columns, data types, and any constraints. Modify the script as needed for your specific use case.
+
+## Example
+
+```sql
+-- Example: Creating a 'users' table
+CREATE TABLE users (
+    id INT PRIMARY KEY,
+    username VARCHAR(50) NOT NULL,
+    email VARCHAR(100) UNIQUE,
+    birthdate DATE
+);
+```
