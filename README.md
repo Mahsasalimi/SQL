@@ -18,8 +18,7 @@ If you're new to SQL, you might want to start with the basics. The [SQL Basics](
 ## SQL Basics
 
 - [Creating a Database and a Table and Inserting Data](sql-basics/create-table.sql)
-- [Updating Data](sql-basics/update-data.sql)
-- [Deleting Data](sql-basics/delete-data.sql)
+- [Updating and Deleting Data](sql-basics/update-delete-data.sql)
 
 ## Advanced SQL
 
