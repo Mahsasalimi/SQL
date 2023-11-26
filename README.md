@@ -19,12 +19,13 @@ If you're new to SQL, you might want to start with the basics. The [SQL Basics](
 
 - [Creating a Database and a Table and Inserting Data](sql-basics/create-table.sql)
 - [Updating and Deleting Data](sql-basics/update-delete-data.sql)
+- [Joining Tables](sql-basics/join-tables.sql)
 
 ## Advanced SQL
 
 Take your SQL skills to the next level with these advanced examples:
 
-- [Joining Tables](advanced-sql/join-tables.sql)
+
 - [Subqueries](advanced-sql/subqueries.sql)
 - [Indexes and Optimization](advanced-sql/indexes-optimization.sql)
 
