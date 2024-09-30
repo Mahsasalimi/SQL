@@ -34,7 +34,7 @@ Take your SQL skills to the next level with these advanced examples:
 Discover some SQL tips and tricks to make your queries more efficient and effective:
 
 - [Common Mistakes to Avoid](tips-and-tricks/common-mistakes.sql)
-- [Optimizing Queries](tips-and-tricks/optimize-queries.sql)
+- [Optimizing Queries](https://github.com/Mahsasalimi/SQL/tree/main/advanced-sql/High-Performing%20SQL%20Queries)
 - [Handling NULL Values](tips-and-tricks/handling-null-values.sql)
 
 ## Contributing
