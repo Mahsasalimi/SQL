@@ -47,7 +47,7 @@ BEGIN
 
     IF @@ROWCOUNT = 0 BREAK;
 END
-
+```
 
 The full script is available in batch-update-large-tables/batch_update.sql
 
