@@ -47,3 +47,13 @@ BEGIN
 
     IF @@ROWCOUNT = 0 BREAK;
 END
+
+
+The full script is available in batch-update-large-tables/batch_update.sql
+
+##Notes & Best Practices:
+
+* Adjust the batch size according to your system resources.
+* Ensure proper indexing on MatchKey and RecordID.
+* This approach is useful for backfills, data corrections, and large-scale data enrichment.
+* Test on a staging environment before running on production.
