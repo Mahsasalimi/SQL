@@ -51,7 +51,7 @@ END
 
 The full script is available in batch-update-large-tables/batch_update.sql
 
-##Notes & Best Practices:
+## Notes & Best Practices:
 
 * Adjust the batch size according to your system resources.
 * Ensure proper indexing on MatchKey and RecordID.
