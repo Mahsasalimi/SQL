@@ -49,7 +49,7 @@ BEGIN
 END
 ```
 
-The full script is available in [Link](batch-update-large-tables/batch_update.sql)
+The full script is available in [batch_update.sql](batch-update-large-tables/batch_update.sql)
 
 ## Notes & Best Practices:
 
